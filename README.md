@@ -16,6 +16,7 @@
 A tech blog made using the MVC structure
 
 ## Screenshot
+![techblogscreen1](https://user-images.githubusercontent.com/113956697/230523717-2d51c2c5-ba0a-4206-af94-5bb1f39adba5.PNG)
 
 ## Usage
 
