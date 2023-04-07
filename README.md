@@ -20,6 +20,7 @@ A tech blog made using the MVC structure
 ## Usage
 
 For devs: create an <code>.env</code> file using:
+
 <code> DB_NAME='tech_blog_db' 
 DB_USER='root' 
 DB_PW='insert your sql pw'
