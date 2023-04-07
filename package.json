@@ -4,7 +4,6 @@
     "description": "A tech blog created using MVC structure",
     "main": "server.js",
     "scripts": {
-        "test": "jest",
         "start": "node server.js",
         "watch": "nodemon server.js",
         "seed": "node seeds/index.js"
